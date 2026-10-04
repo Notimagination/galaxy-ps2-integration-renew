@@ -20,7 +20,7 @@ This is a fork and modern update of the original [galaxy-integration-ps2](https:
 
 * **Integrated Playtime:** Playtime tracking is now directly linked to the GOG system.
 
-* **Expanded Emulator Support:** Support for multiple emulators beyond just PCSX2.
+* **Expanded Emulator Support:** Support for multiple emulators beyond just PCSX2 (PCSX2 has the best compatibility and it's used as default).
 
 ## 📦 Installation Guide
 
@@ -38,7 +38,7 @@ This is a fork and modern update of the original [galaxy-integration-ps2](https:
 
    <img width="559" height="348" alt="step3" src="https://github.com/user-attachments/assets/e73054a3-1269-49af-8e25-9ff09ccd31e2" />
 
-5. Configure your paths:
+4. Configure your paths:
 
    * Game paths must use backslashes (`\`).
 
@@ -48,7 +48,9 @@ This is a fork and modern update of the original [galaxy-integration-ps2](https:
 
    <img width="754" height="1675" alt="step4" src="https://github.com/user-attachments/assets/dd35bbec-1ac5-469b-858c-0b0ec4cdc3bf" />
 
-6. Click the **Save config** button and wait for your games to import.
+5. Click the **Save config** button and wait for your games to import.
+
+   <img width="1896" height="881" alt="step5" src="https://github.com/user-attachments/assets/886b08ad-f3fa-4146-a954-8a184659fb85" />
 
 ## 🎮 Requesting Game Additions
 
