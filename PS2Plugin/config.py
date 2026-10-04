@@ -10,8 +10,8 @@ class Config:
     def __init__(self):
         self.cfg = configparser.ConfigParser(allow_no_value=True)
         self.cfg["Paths"] = {
-            "roms_path": "C:/Games/PS2",
-            "emu_path": "C:/Program Files (x86)/PCSX2 1.4.0/pcsx2.exe",
+            "roms_path": "",
+            "emu_path": "",
             "config_path": "",
         }
         self.cfg["EmuSettings"] = {
