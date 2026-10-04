@@ -25,17 +25,18 @@ This is a fork and modern update of the original [galaxy-integration-ps2](https:
 ## 📦 Installation Guide
 
 1. Download the `.zip` file from this repository.
+   
+ <img width="969" height="407" alt="step1" src="https://github.com/user-attachments/assets/4c9b1ce5-a46a-41bb-9bbf-39ea150d5f7a" />
 
-2. Extract and move the `PS2Plugin` folder to your GOG Galaxy plugins directory:
+3. Extract and move the `PS2Plugin` folder to your GOG Galaxy plugins directory:
 
    ```
    %localappdata%\GOG.com\Galaxy\plugins\installed
-   
    ```
 
-3. Open **GOG Galaxy**, go to **Settings** > **Integrations**, and look for **PlayStation 2**. Click **Connect**.
+4. Open **GOG Galaxy**, go to **Settings** > **Integrations**, and look for **PlayStation 2**. Click **Connect**.
 
-4. Configure your paths:
+5. Configure your paths:
 
    * Game paths must use backslashes (`\`).
 
@@ -43,7 +44,7 @@ This is a fork and modern update of the original [galaxy-integration-ps2](https:
 
    > *Note: Per-game configurations are a legacy feature inherited from the original code. I decided to keep it in case anyone needs it, but it is completely optional.*
 
-5. Click the **Save config** button and wait for your games to import.
+6. Click the **Save config** button and wait for your games to import.
 
 ## 🎮 Requesting Game Additions
 
