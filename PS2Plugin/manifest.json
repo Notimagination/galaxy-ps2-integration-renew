@@ -1,0 +1,11 @@
+{
+  "name": "Galaxy PlayStation 2 Integration",
+  "platform": "ps2",
+  "guid": "1e814707-1fe3-4e1e-86fe-1b8d1b7fac2e",
+  "version": "2.3.0",
+  "description": "PlayStation 2 local game integration for GOG Galaxy 2.1+ with disc serial detection, ISO/BIN/GZ support, cached PS2 metadata and playtime tracking",
+  "author": "Notimagination",
+  "email": "Notimagination@users.noreply.github.com",
+  "url": "https://github.com/Notimagination",
+  "script": "plugin.py"
+}

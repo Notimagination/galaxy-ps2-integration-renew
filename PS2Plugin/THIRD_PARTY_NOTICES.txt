@@ -1,0 +1,23 @@
+Third-party data and project references used by this PS2 integration
+
+GameDB-PS2
+https://github.com/niemasd/GameDB-PS2
+Used for PS2 serial -> title mapping and identification reference.
+Repository license: GPL-3.0.
+
+OPL Games Infos Database Project
+https://github.com/GDX-X/OPL-Games-Infos-Database-Project
+Used for rich PS2 metadata such as region, release, developer, publisher, genre, description and rating.
+
+PS2 Covers Collection / xlenore
+https://github.com/xlenore/ps2-covers
+Serial-based cover URL used by PCSX2:
+https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg
+
+PCSX2
+https://github.com/PCSX2/pcsx2
+The identification strategy follows PCSX2's documented CDVD behavior: SYSTEM.CNF -> boot executable -> serial, and the PCSX2 ELF XOR CRC calculation.
+
+PCSX2 GameIndex
+GameIndex.json is a slimmed conversion (serial -> name, region) of PCSX2's GameIndex.yaml.
+Its header credits: game data (serials, titles and region info) based on http://sonyindex.com, additional games and data by the PCSX2 team. PCSX2 is licensed GPL-3.0.
