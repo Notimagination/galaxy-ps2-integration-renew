@@ -95,5 +95,3 @@ If you would like me to add support for a missing game in a future update, pleas
 ### Q: The plugin disconnected, and when I reconnected it, all the custom data and images I added to each game were deleted.
 
 **A:** GOG deletes all custom data because it forces the use of its own database. The solution is to avoid disconnecting the plugin. If it does happen, you will need to reload the images manually. There is not much I can do about this or anything related to GOG's database, unless GOG decides to make this more flexible in the future.
-
-### Help me create a new topic [asking GOG](https://www.gog.com/forum/general_beta_gog_galaxy_2.0#1791162908) to allow more metadata
