@@ -33,7 +33,6 @@
 | WII | ⏳ Planned | ❌ | ✅ | Download |
 | PS3 | ⏳ Planned | ❌ | ✅ | Download |
 
-
 ## 📦 Installation Guide
 
 1. Download the `.zip` file from this repository, or you can check the [releases](https://github.com/Notimagination/galaxy-ps2-integration-renew/releases) page for the latest updates.
