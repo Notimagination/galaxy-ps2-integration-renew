@@ -24,7 +24,7 @@ This is a fork and modern update of the original [galaxy-integration-ps2](https:
 
 ## 📦 Installation Guide
 
-1. Download the `.zip` file from this repository (or you can check the [galaxy-integration-ps2]([https://github.com/AHCoder/galaxy-integration-ps2](https://github.com/Notimagination/galaxy-ps2-integration-renew/releases/tag/relesase))).
+1. Download the `.zip` file from this repository, or you can check the [releases](https://github.com/Notimagination/galaxy-ps2-integration-renew/releases/tag/relesase) page for the latest updates.
    
  <img width="969" height="407" alt="step1" src="https://github.com/user-attachments/assets/4c9b1ce5-a46a-41bb-9bbf-39ea150d5f7a" />
 
