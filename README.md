@@ -21,6 +21,8 @@
 
 * **Expanded Emulator Support:** Support for multiple emulators beyond just PCSX2 (PCSX2 has the best compatibility and it's used as default).
 
+* Long-Term Maintenance: Ongoing plugin maintenance with regular updates, new features, and bug fixes.
+
 ## 📌 Other emulator plugins
 
 | Integration | Status | Achievements | Game Time | Download |
