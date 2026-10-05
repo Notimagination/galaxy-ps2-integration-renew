@@ -33,6 +33,9 @@
 | WII | ⏳ Planned | ❌ | ✅ | Download |
 | PS3 | ⏳ Planned | ❌ | ✅ | Download |
 
+  > [!NOTE]
+  > Some emulators may support achievements through [RetroAchievements](https://retroachievements.org/), provided that GOG decides to integrate with the system. If that ever happens (which I highly doubt), I’ll implement it.
+
 ## 📦 Installation Guide
 
 1. Download the `.zip` file from this repository, or you can check the [releases](https://github.com/Notimagination/galaxy-ps2-integration-renew/releases) page for the latest updates.
