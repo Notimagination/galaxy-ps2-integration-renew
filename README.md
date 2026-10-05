@@ -61,7 +61,7 @@ If you would like me to add support for a missing game in a future update, pleas
 * **CRC**
 * **The log file** generated at `%programdata%\GOG.com\Galaxy` (`plugin-ps2-1e814707-1fe3-4e1e-86fe-1b8d1b7fac2e.log`)
 
-  Open a ticket on the [Issues](https://github.com/Notimagination/galaxy-ps2-integration-renew/issues) page.
+🎫 **Open a ticket on the [Issues](https://github.com/Notimagination/galaxy-ps2-integration-renew/issues) page**.
 
 ## ❓ Frequently Asked Questions (FAQ)
 
