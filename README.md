@@ -2,8 +2,6 @@
 
 This is a fork and modern update of the original [galaxy-integration-ps2](https://github.com/AHCoder/galaxy-integration-ps2) plugin by AHCoder, which became outdated and non-functional for current versions of GOG Galaxy.
 
-> **Disclaimer:** This is the first and likely the final version of this plugin. However, I will monitor and address specific issues such as game detection if they arise.
-
 ## ✨ What's New & Improved
 
 * **Full Compatibility:** Fully functional with recent versions of GOG Galaxy.
