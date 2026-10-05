@@ -38,10 +38,6 @@ This is a fork and modern update of the original [galaxy-integration-ps2](https:
 
 4. Configure your paths:
 
-   * Game paths must use backslashes (`\`).
-
-   * Emulator paths must use forward slashes (`/`).
-
    > *Note: Per-game configurations are a legacy feature inherited from the original code. I decided to keep it in case anyone needs it, but it is completely optional.*
 
    <img width="754" height="1675" alt="step4" src="https://github.com/user-attachments/assets/dd35bbec-1ac5-469b-858c-0b0ec4cdc3bf" />
