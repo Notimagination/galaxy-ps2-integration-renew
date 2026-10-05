@@ -20,6 +20,17 @@ This is a fork and modern update of the original [galaxy-integration-ps2](https:
 
 * **Expanded Emulator Support:** Support for multiple emulators beyond just PCSX2 (PCSX2 has the best compatibility and it's used as default).
 
+## 📌 Other emulator plugins
+
+| Integration | Status | Achievements | Game Time | Download |
+|-------------|--------|--------------|-----------|----------|
+| Switch | ✅ Released | ❌ | ✅ | [Download](https://github.com/Notimagination/galaxy-switch-integration) |
+| NES | ⏳ Planned | ❌ | ✅ | Download |
+| PSP | ⏳ Planned | ❌ | ✅ | Download |
+| WII | ⏳ Planned | ❌ | ✅ | Download |
+| PS3 | ⏳ Planned | ❌ | ✅ | Download |
+
+
 ## 📦 Installation Guide
 
 1. Download the `.zip` file from this repository, or you can check the [releases](https://github.com/Notimagination/galaxy-ps2-integration-renew/releases) page for the latest updates.
