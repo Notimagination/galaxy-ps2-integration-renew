@@ -1,6 +1,7 @@
 # GOG Galaxy PlayStation 2 Integration (Updated)
 
-This is a fork and modern update of the original [galaxy-integration-ps2](https://github.com/AHCoder/galaxy-integration-ps2) plugin by AHCoder, which became outdated and non-functional for current versions of GOG Galaxy.
+> [!IMPORTANT]
+> This is a fork and modern update of the original [galaxy-integration-ps2](https://github.com/AHCoder/galaxy-integration-ps2) plugin by AHCoder, which became outdated and non-functional for current versions of GOG Galaxy.
 
 ## ✨ What's New & Improved
 
