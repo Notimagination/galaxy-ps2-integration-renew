@@ -20,6 +20,8 @@
 * **Integrated Playtime:** Playtime tracking is now directly linked to the GOG system.
 
 * **Expanded Emulator Support:** Support for multiple emulators beyond just PCSX2 (PCSX2 has the best compatibility and it's used as default).
+  
+* **Import metadata:** Import tags so you can organize games using tags.
 
 * **Long-Term Maintenance:** Ongoing plugin maintenance with regular updates, new features, and bug fixes.
 
