@@ -30,7 +30,7 @@
 | Integration | Status | Achievements | Game Time | Download |
 |-------------|--------|--------------|-----------|----------|
 | Switch | ✅ Released | ❌ | ✅ | [Download](https://github.com/Notimagination/galaxy-switch-integration) |
-| NES | ⏳ Planned | ❌ | ✅ | Download |
+| NES | ✅ Released | ❌ | ✅ | [Download](https://github.com/Notimagination/galaxy-nes-integration) |
 | PSP | ⏳ Planned | ❌ | ✅ | Download |
 | WII | ⏳ Planned | ❌ | ✅ | Download |
 | PS3 | ⏳ Planned | ❌ | ✅ | Download |
@@ -62,7 +62,7 @@
 
    <img width="754" height="1675" alt="step4" src="https://github.com/user-attachments/assets/dd35bbec-1ac5-469b-858c-0b0ec4cdc3bf" />
 
-6. Click the **Save config** button and wait for your games to import.
+5. Click the **Save config** button and wait for your games to import.
 
    <img width="1896" height="881" alt="step5" src="https://github.com/user-attachments/assets/886b08ad-f3fa-4146-a954-8a184659fb85" />
 
