@@ -27,7 +27,7 @@
 
 | Integration | Status | Achievements | Game Time | Download |
 |-------------|--------|--------------|-----------|----------|
-| Switch | ✅ Released | ⚠️ | ✅ | [Download](https://github.com/Notimagination/galaxy-switch-integration) |
+| Switch | ✅ Released | ❌ | ✅ | [Download](https://github.com/Notimagination/galaxy-switch-integration) |
 | NES | ✅ Released | ⚠️ / ❌ (Mesen don't support) | ✅ | [Download](https://github.com/Notimagination/galaxy-nes-integration) |
 | PSP | ⏳ Planned | ⚠️ | ✅ | Download |
 | WII | ⏳ Planned | ⚠️ | ✅ | Download |
