@@ -55,9 +55,6 @@
 
 4. Configure your paths:
 
-  > [!NOTE]
-  > Per-game configurations are a legacy feature inherited from the original code. I decided to keep it in case anyone needs it, but it is completely optional. If you want to use it, check the original [wiki](https://github.com/AHCoder/galaxy-integration-ps2/wiki/Configuration#game-specific-settings).
-
    <img width="754" height="1675" alt="step4" src="https://github.com/user-attachments/assets/dd35bbec-1ac5-469b-858c-0b0ec4cdc3bf" />
 
 5. Click the **Save config** button and wait for your games to import.
